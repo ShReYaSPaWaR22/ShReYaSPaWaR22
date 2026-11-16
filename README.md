@@ -9,7 +9,7 @@
 
 - 🤵🏻 Portfolio Website **https://shreyaspawar22.github.io/**
 
-- 🚀 Open Source Contribution to NVIDIA NeMo Text Processing **https://github.com/shrpawar-alt**
+- 🚀 Open Source Contribution **https://github.com/shrpawar-alt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
